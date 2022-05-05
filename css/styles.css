@@ -447,6 +447,10 @@ legend + * {
   direction: ltr;
 }
 */
+#paloma{
+  width: 100px;
+  height: 100px;
+}
 ::-webkit-search-decoration {
   -webkit-appearance: none;
 }
